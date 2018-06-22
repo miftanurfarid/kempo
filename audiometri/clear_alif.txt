@@ -1,0 +1,736 @@
+pychoacoustics version: 0.4.6; build date: 18-Apr-2017 18:50
+Experiment version: pychoacoustics.default_experiments.audiogram 0.4.6 18-Apr-2017 18:50
+Block Number: 12
+Block Position: 1
+Start: 5/21/18 10:48 AM
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Experiment Label: Coba 1
+Session Label: 1
+Condition Label: 
+Experiment:    Audiogram
+Listener:      alif
+Response Mode: Real Listener
+Paradigm:      Transformed Up-Down
+Intervals:     3
+Alternatives:  3
+Procedure: Arithmetic
+Corr. Resp. Move Track: Down
+Rule Down: 2
+Rule Up: 1
+Initial Turnpoints: 4
+Total Turnpoints: 16
+Step Size 1: 4
+Step Size 2: 2
+Phones:        Phones 1
+Sample Rate:   48000
+Bits:          32
+Pre-Trial Silence (ms): 200
+Warning Interval: No
+Interval Lights: Yes
+Response Light: Feedback
+Response Light Type: Light
+Response Light Duration (ms): 500
+ISI:           500
+
+Ear: Right
+Signal Type: Sinusoid
+Frequency (Hz):  1000
+Level (dB SPL):  50
+Duration (ms):  180
+Ramps (ms):  10
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+50.00 58.00 10.00 14.00 |  4.00  8.00  4.00  6.00  2.00  6.00  4.00  8.00  2.00  4.00  2.00 10.00 | 
+
+turnpointMean =  5.00, s.d. =  2.63 
+B1 = 26, B2 = 28, B3 = 20
+
+End: 5/21/18 10:52 AM
+Duration: 4.476294199625651 min. 
+
+*******************************************************
+pychoacoustics version: 0.4.6; build date: 18-Apr-2017 18:50
+Experiment version: pychoacoustics.default_experiments.audiogram 0.4.6 18-Apr-2017 18:50
+Block Number: 2
+Block Position: 2
+Start: 5/21/18 10:52 AM
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Experiment Label: Coba 1
+Session Label: 1
+Condition Label: 
+Experiment:    Audiogram
+Listener:      alif
+Response Mode: Real Listener
+Paradigm:      Transformed Up-Down
+Intervals:     3
+Alternatives:  3
+Procedure: Arithmetic
+Corr. Resp. Move Track: Down
+Rule Down: 2
+Rule Up: 1
+Initial Turnpoints: 4
+Total Turnpoints: 16
+Step Size 1: 4
+Step Size 2: 2
+Phones:        Phones 1
+Sample Rate:   48000
+Bits:          32
+Pre-Trial Silence (ms): 200
+Warning Interval: No
+Interval Lights: Yes
+Response Light: Feedback
+Response Light Type: Light
+Response Light Duration (ms): 500
+ISI:           500
+
+Ear: Right
+Signal Type: Sinusoid
+Frequency (Hz):  500
+Level (dB SPL):  50
+Duration (ms):  180
+Ramps (ms):  10
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+14.00 18.00 14.00 18.00 | 10.00 12.00 10.00 14.00 12.00 24.00 22.00 24.00 16.00 22.00 18.00 20.00 | 
+
+turnpointMean = 17.00, s.d. =  5.36 
+B1 = 28, B2 = 18, B3 = 22
+
+End: 5/21/18 10:56 AM
+Duration: 3.797094448407491 min. 
+
+*******************************************************
+pychoacoustics version: 0.4.6; build date: 18-Apr-2017 18:50
+Experiment version: pychoacoustics.default_experiments.audiogram 0.4.6 18-Apr-2017 18:50
+Block Number: 7
+Block Position: 3
+Start: 5/21/18 10:56 AM
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Experiment Label: Coba 1
+Session Label: 1
+Condition Label: 
+Experiment:    Audiogram
+Listener:      alif
+Response Mode: Real Listener
+Paradigm:      Transformed Up-Down
+Intervals:     3
+Alternatives:  3
+Procedure: Arithmetic
+Corr. Resp. Move Track: Down
+Rule Down: 2
+Rule Up: 1
+Initial Turnpoints: 4
+Total Turnpoints: 16
+Step Size 1: 4
+Step Size 2: 2
+Phones:        Phones 1
+Sample Rate:   48000
+Bits:          32
+Pre-Trial Silence (ms): 200
+Warning Interval: No
+Interval Lights: Yes
+Response Light: Feedback
+Response Light Type: Light
+Response Light Duration (ms): 500
+ISI:           500
+
+Ear: Left
+Signal Type: Sinusoid
+Frequency (Hz):  4000
+Level (dB SPL):  50
+Duration (ms):  180
+Ramps (ms):  10
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+-2.00  2.00 -6.00 -2.00 | -8.00 -4.00 -6.00 -4.00 -6.00 -4.00 -10.00 -6.00 -8.00 -2.00 -10.00 -8.00 | 
+
+turnpointMean = -6.33, s.d. =  2.53 
+B1 = 26, B2 = 26, B3 = 17
+
+End: 5/21/18 11:00 AM
+Duration: 3.6825461665789287 min. 
+
+*******************************************************
+pychoacoustics version: 0.4.6; build date: 18-Apr-2017 18:50
+Experiment version: pychoacoustics.default_experiments.audiogram 0.4.6 18-Apr-2017 18:50
+Block Number: 1
+Block Position: 4
+Start: 5/21/18 11:00 AM
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Experiment Label: Coba 1
+Session Label: 1
+Condition Label: 
+Experiment:    Audiogram
+Listener:      alif
+Response Mode: Real Listener
+Paradigm:      Transformed Up-Down
+Intervals:     3
+Alternatives:  3
+Procedure: Arithmetic
+Corr. Resp. Move Track: Down
+Rule Down: 2
+Rule Up: 1
+Initial Turnpoints: 4
+Total Turnpoints: 16
+Step Size 1: 4
+Step Size 2: 2
+Phones:        Phones 1
+Sample Rate:   48000
+Bits:          32
+Pre-Trial Silence (ms): 200
+Warning Interval: No
+Interval Lights: Yes
+Response Light: Feedback
+Response Light Type: Light
+Response Light Duration (ms): 500
+ISI:           500
+
+Ear: Right
+Signal Type: Sinusoid
+Frequency (Hz):  250
+Level (dB SPL):  50
+Duration (ms):  180
+Ramps (ms):  10
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+18.00 26.00 14.00 18.00 | 14.00 18.00 16.00 24.00 20.00 22.00 20.00 26.00 14.00 16.00 14.00 16.00 | 
+
+turnpointMean = 18.33, s.d. =  4.08 
+B1 = 26, B2 = 21, B3 = 22
+
+End: 5/21/18 11:04 AM
+Duration: 3.793627381324768 min. 
+
+*******************************************************
+pychoacoustics version: 0.4.6; build date: 18-Apr-2017 18:50
+Experiment version: pychoacoustics.default_experiments.audiogram 0.4.6 18-Apr-2017 18:50
+Block Number: 4
+Block Position: 5
+Start: 5/21/18 11:04 AM
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Experiment Label: Coba 1
+Session Label: 1
+Condition Label: 
+Experiment:    Audiogram
+Listener:      alif
+Response Mode: Real Listener
+Paradigm:      Transformed Up-Down
+Intervals:     3
+Alternatives:  3
+Procedure: Arithmetic
+Corr. Resp. Move Track: Down
+Rule Down: 2
+Rule Up: 1
+Initial Turnpoints: 4
+Total Turnpoints: 16
+Step Size 1: 4
+Step Size 2: 2
+Phones:        Phones 1
+Sample Rate:   48000
+Bits:          32
+Pre-Trial Silence (ms): 200
+Warning Interval: No
+Interval Lights: Yes
+Response Light: Feedback
+Response Light Type: Light
+Response Light Duration (ms): 500
+ISI:           500
+
+Ear: Right
+Signal Type: Sinusoid
+Frequency (Hz):  4000
+Level (dB SPL):  50
+Duration (ms):  180
+Ramps (ms):  10
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+-10.00 -6.00 -14.00 -6.00 | -12.00 -10.00 -12.00 -4.00 -10.00 -2.00 -8.00 -6.00 -10.00 -6.00 -8.00 -6.00 | 
+
+turnpointMean = -7.83, s.d. =  3.13 
+B1 = 28, B2 = 31, B3 = 24
+
+End: 5/21/18 11:08 AM
+Duration: 4.356409084796906 min. 
+
+*******************************************************
+pychoacoustics version: 0.4.6; build date: 18-Apr-2017 18:50
+Experiment version: pychoacoustics.default_experiments.audiogram 0.4.6 18-Apr-2017 18:50
+Block Number: 8
+Block Position: 6
+Start: 5/21/18 11:08 AM
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Experiment Label: Coba 1
+Session Label: 1
+Condition Label: Normal
+Experiment:    Audiogram
+Listener:      alif
+Response Mode: Real Listener
+Paradigm:      Transformed Up-Down
+Intervals:     3
+Alternatives:  3
+Procedure: Arithmetic
+Corr. Resp. Move Track: Down
+Rule Down: 2
+Rule Up: 1
+Initial Turnpoints: 4
+Total Turnpoints: 16
+Step Size 1: 4
+Step Size 2: 2
+Phones:        Phones 1
+Sample Rate:   48000
+Bits:          32
+Pre-Trial Silence (ms): 200
+Warning Interval: No
+Interval Lights: Yes
+Response Light: Feedback
+Response Light Type: Light
+Response Light Duration (ms): 500
+ISI:           500
+
+Ear: Left
+Signal Type: Sinusoid
+Frequency (Hz):  2000
+Level (dB SPL):  50
+Duration (ms):  180
+Ramps (ms):  10
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ 2.00  6.00  2.00  6.00 |  0.00  6.00  0.00  4.00  0.00  4.00  2.00  4.00  2.00  4.00  2.00  4.00 | 
+
+turnpointMean =  2.67, s.d. =  1.97 
+B1 = 30, B2 = 19, B3 = 17
+
+End: 5/21/18 11:12 AM
+Duration: 3.555093252658844 min. 
+
+*******************************************************
+pychoacoustics version: 0.4.6; build date: 18-Apr-2017 18:50
+Experiment version: pychoacoustics.default_experiments.audiogram 0.4.6 18-Apr-2017 18:50
+Block Number: 13
+Block Position: 7
+Start: 5/21/18 11:12 AM
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Experiment Label: Coba 1
+Session Label: 1
+Condition Label: 
+Experiment:    Audiogram
+Listener:      alif
+Response Mode: Real Listener
+Paradigm:      Transformed Up-Down
+Intervals:     3
+Alternatives:  3
+Procedure: Arithmetic
+Corr. Resp. Move Track: Down
+Rule Down: 2
+Rule Up: 1
+Initial Turnpoints: 4
+Total Turnpoints: 16
+Step Size 1: 4
+Step Size 2: 2
+Phones:        Phones 1
+Sample Rate:   48000
+Bits:          32
+Pre-Trial Silence (ms): 200
+Warning Interval: No
+Interval Lights: Yes
+Response Light: Feedback
+Response Light Type: Light
+Response Light Duration (ms): 500
+ISI:           500
+
+Ear: Right
+Signal Type: Sinusoid
+Frequency (Hz):  125
+Level (dB SPL):  50
+Duration (ms):  180
+Ramps (ms):  10
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+18.00 22.00 14.00 30.00 | 24.00 28.00 24.00 26.00 24.00 32.00 22.00 30.00 26.00 28.00 26.00 30.00 | 
+
+turnpointMean = 26.67, s.d. =  2.99 
+B1 = 23, B2 = 20, B3 = 27
+
+End: 5/21/18 11:16 AM
+Duration: 3.692543931802114 min. 
+
+*******************************************************
+pychoacoustics version: 0.4.6; build date: 18-Apr-2017 18:50
+Experiment version: pychoacoustics.default_experiments.audiogram 0.4.6 18-Apr-2017 18:50
+Block Number: 14
+Block Position: 8
+Start: 5/21/18 11:19 AM
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Experiment Label: Coba 1
+Session Label: 1
+Condition Label: normal
+Experiment:    Audiogram
+Listener:      alif
+Response Mode: Real Listener
+Paradigm:      Transformed Up-Down
+Intervals:     3
+Alternatives:  3
+Procedure: Arithmetic
+Corr. Resp. Move Track: Down
+Rule Down: 2
+Rule Up: 1
+Initial Turnpoints: 4
+Total Turnpoints: 16
+Step Size 1: 4
+Step Size 2: 2
+Phones:        Phones 1
+Sample Rate:   48000
+Bits:          32
+Pre-Trial Silence (ms): 200
+Warning Interval: No
+Interval Lights: Yes
+Response Light: Feedback
+Response Light Type: Light
+Response Light Duration (ms): 500
+ISI:           500
+
+Ear: Left
+Signal Type: Sinusoid
+Frequency (Hz):  125
+Level (dB SPL):  50
+Duration (ms):  180
+Ramps (ms):  10
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+10.00 14.00 10.00 22.00 | 16.00 22.00 20.00 22.00 20.00 24.00 20.00 24.00 22.00 26.00 24.00 26.00 | 
+
+turnpointMean = 22.17, s.d. =  2.89 
+B1 = 26, B2 = 19, B3 = 14
+
+End: 5/21/18 11:22 AM
+Duration: 3.003636916478475 min. 
+
+*******************************************************
+pychoacoustics version: 0.4.6; build date: 18-Apr-2017 18:50
+Experiment version: pychoacoustics.default_experiments.audiogram 0.4.6 18-Apr-2017 18:50
+Block Number: 4
+Block Position: 1
+Start: 5/21/18 11:39 AM
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Experiment Label: lanjutan alif
+Session Label: 2
+Condition Label: 
+Experiment:    Audiogram
+Listener:      alif
+Response Mode: Real Listener
+Paradigm:      Transformed Up-Down
+Intervals:     3
+Alternatives:  3
+Procedure: Arithmetic
+Corr. Resp. Move Track: Down
+Rule Down: 2
+Rule Up: 1
+Initial Turnpoints: 4
+Total Turnpoints: 16
+Step Size 1: 4
+Step Size 2: 2
+Phones:        Phones 1
+Sample Rate:   48000
+Bits:          32
+Pre-Trial Silence (ms): 200
+Warning Interval: No
+Interval Lights: Yes
+Response Light: Feedback
+Response Light Type: Light
+Response Light Duration (ms): 500
+ISI:           500
+
+Ear: Right
+Signal Type: Sinusoid
+Frequency (Hz):  2000
+Level (dB SPL):  50
+Duration (ms):  180
+Ramps (ms):  10
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ 2.00  6.00 -2.00  6.00 |  0.00  2.00  0.00  4.00  2.00  4.00  0.00  6.00  0.00  6.00  4.00  6.00 | 
+
+turnpointMean =  2.83, s.d. =  2.48 
+B1 = 21, B2 = 23, B3 = 29
+
+End: 5/21/18 11:43 AM
+Duration: 3.985273563861847 min. 
+
+*******************************************************
+pychoacoustics version: 0.4.6; build date: 18-Apr-2017 18:50
+Experiment version: pychoacoustics.default_experiments.audiogram 0.4.6 18-Apr-2017 18:50
+Block Number: 5
+Block Position: 2
+Start: 5/21/18 11:46 AM
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Experiment Label: lanjutan alif
+Session Label: 2
+Condition Label: 
+Experiment:    Audiogram
+Listener:      alif
+Response Mode: Real Listener
+Paradigm:      Transformed Up-Down
+Intervals:     3
+Alternatives:  3
+Procedure: Arithmetic
+Corr. Resp. Move Track: Down
+Rule Down: 2
+Rule Up: 1
+Initial Turnpoints: 4
+Total Turnpoints: 16
+Step Size 1: 4
+Step Size 2: 2
+Phones:        Phones 1
+Sample Rate:   48000
+Bits:          32
+Pre-Trial Silence (ms): 200
+Warning Interval: No
+Interval Lights: Yes
+Response Light: Feedback
+Response Light Type: Light
+Response Light Duration (ms): 500
+ISI:           500
+
+Ear: Right
+Signal Type: Sinusoid
+Frequency (Hz):  8000
+Level (dB SPL):  50
+Duration (ms):  180
+Ramps (ms):  10
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ 6.00 10.00  6.00 10.00 |  2.00  4.00  0.00  8.00  6.00  8.00  4.00  8.00  4.00  6.00  4.00  6.00 | 
+
+turnpointMean =  5.00, s.d. =  2.49 
+B1 = 21, B2 = 23, B3 = 18
+
+End: 5/21/18 11:49 AM
+Duration: 3.3403976996739706 min. 
+
+*******************************************************
+pychoacoustics version: 0.4.6; build date: 18-Apr-2017 18:50
+Experiment version: pychoacoustics.default_experiments.audiogram 0.4.6 18-Apr-2017 18:50
+Block Number: 1
+Block Position: 3
+Start: 5/21/18 11:49 AM
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Experiment Label: lanjutan alif
+Session Label: 2
+Condition Label: 
+Experiment:    Audiogram
+Listener:      alif
+Response Mode: Real Listener
+Paradigm:      Transformed Up-Down
+Intervals:     3
+Alternatives:  3
+Procedure: Arithmetic
+Corr. Resp. Move Track: Down
+Rule Down: 2
+Rule Up: 1
+Initial Turnpoints: 4
+Total Turnpoints: 16
+Step Size 1: 4
+Step Size 2: 2
+Phones:        Phones 1
+Sample Rate:   48000
+Bits:          32
+Pre-Trial Silence (ms): 200
+Warning Interval: Yes
+Interval Lights: Yes
+Warning Interval Duration (ms): 500
+Warning Interval ISI (ms): 500
+Response Light: Feedback
+Response Light Type: Light
+Response Light Duration (ms): 500
+ISI:           500
+
+Ear: Left
+Signal Type: Sinusoid
+Frequency (Hz):  1000
+Level (dB SPL):  50
+Duration (ms):  180
+Ramps (ms):  10
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ 2.00 10.00  2.00  6.00 |  2.00 12.00  6.00 10.00  8.00 10.00  8.00 12.00  8.00 10.00  6.00 10.00 | 
+
+turnpointMean =  8.50, s.d. =  2.84 
+B1 = 26, B2 = 17, B3 = 28
+
+End: 5/21/18 11:54 AM
+Duration: 4.955719216664632 min. 
+
+*******************************************************
+pychoacoustics version: 0.4.6; build date: 18-Apr-2017 18:50
+Experiment version: pychoacoustics.default_experiments.audiogram 0.4.6 18-Apr-2017 18:50
+Block Number: 6
+Block Position: 4
+Start: 5/21/18 11:54 AM
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Experiment Label: lanjutan alif
+Session Label: 2
+Condition Label: 
+Experiment:    Audiogram
+Listener:      alif
+Response Mode: Real Listener
+Paradigm:      Transformed Up-Down
+Intervals:     3
+Alternatives:  3
+Procedure: Arithmetic
+Corr. Resp. Move Track: Down
+Rule Down: 2
+Rule Up: 1
+Initial Turnpoints: 4
+Total Turnpoints: 16
+Step Size 1: 4
+Step Size 2: 2
+Phones:        Phones 1
+Sample Rate:   48000
+Bits:          32
+Pre-Trial Silence (ms): 200
+Warning Interval: Yes
+Interval Lights: Yes
+Warning Interval Duration (ms): 500
+Warning Interval ISI (ms): 500
+Response Light: Feedback
+Response Light Type: Light
+Response Light Duration (ms): 500
+ISI:           500
+
+Ear: Left
+Signal Type: Sinusoid
+Frequency (Hz):  250
+Level (dB SPL):  50
+Duration (ms):  180
+Ramps (ms):  10
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+14.00 26.00 18.00 22.00 | 18.00 22.00 20.00 22.00 18.00 20.00 18.00 20.00 18.00 24.00 16.00 18.00 | 
+
+turnpointMean = 19.50, s.d. =  2.28 
+B1 = 28, B2 = 17, B3 = 17
+
+End: 5/21/18 11:59 AM
+Duration: 4.479161516825358 min. 
+
+*******************************************************
+pychoacoustics version: 0.4.6; build date: 18-Apr-2017 18:50
+Experiment version: pychoacoustics.default_experiments.audiogram 0.4.6 18-Apr-2017 18:50
+Block Number: 3
+Block Position: 5
+Start: 5/21/18 11:59 AM
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Experiment Label: lanjutan alif
+Session Label: 2
+Condition Label: 
+Experiment:    Audiogram
+Listener:      alif
+Response Mode: Real Listener
+Paradigm:      Transformed Up-Down
+Intervals:     3
+Alternatives:  3
+Procedure: Arithmetic
+Corr. Resp. Move Track: Down
+Rule Down: 2
+Rule Up: 1
+Initial Turnpoints: 4
+Total Turnpoints: 16
+Step Size 1: 4
+Step Size 2: 2
+Phones:        Phones 1
+Sample Rate:   48000
+Bits:          32
+Pre-Trial Silence (ms): 200
+Warning Interval: Yes
+Interval Lights: Yes
+Warning Interval Duration (ms): 500
+Warning Interval ISI (ms): 500
+Response Light: Feedback
+Response Light Type: Light
+Response Light Duration (ms): 500
+ISI:           500
+
+Ear: Left
+Signal Type: Sinusoid
+Frequency (Hz):  8000
+Level (dB SPL):  50
+Duration (ms):  180
+Ramps (ms):  10
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ 2.00 10.00  2.00  6.00 |  0.00  2.00  0.00 10.00  8.00 10.00  6.00  8.00  4.00  6.00  4.00  6.00 | 
+
+turnpointMean =  5.33, s.d. =  3.45 
+B1 = 21, B2 = 15, B3 = 30
+
+End: 5/21/18 12:04 PM
+Duration: 4.667436802387238 min. 
+
+*******************************************************
+pychoacoustics version: 0.4.6; build date: 18-Apr-2017 18:50
+Experiment version: pychoacoustics.default_experiments.audiogram 0.4.6 18-Apr-2017 18:50
+Block Number: 2
+Block Position: 6
+Start: 5/21/18 12:04 PM
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Experiment Label: lanjutan alif
+Session Label: 2
+Condition Label: 
+Experiment:    Audiogram
+Listener:      alif
+Response Mode: Real Listener
+Paradigm:      Transformed Up-Down
+Intervals:     3
+Alternatives:  3
+Procedure: Arithmetic
+Corr. Resp. Move Track: Down
+Rule Down: 2
+Rule Up: 1
+Initial Turnpoints: 4
+Total Turnpoints: 16
+Step Size 1: 4
+Step Size 2: 2
+Phones:        Phones 1
+Sample Rate:   48000
+Bits:          32
+Pre-Trial Silence (ms): 200
+Warning Interval: Yes
+Interval Lights: Yes
+Warning Interval Duration (ms): 500
+Warning Interval ISI (ms): 500
+Response Light: Feedback
+Response Light Type: Light
+Response Light Duration (ms): 500
+ISI:           500
+
+Ear: Left
+Signal Type: Sinusoid
+Frequency (Hz):  500
+Level (dB SPL):  50
+Duration (ms):  180
+Ramps (ms):  10
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+18.00 26.00 18.00 30.00 | 16.00 18.00 16.00 18.00 12.00 18.00 12.00 14.00 12.00 14.00 12.00 16.00 | 
+
+turnpointMean = 14.83, s.d. =  2.48 
+B1 = 29, B2 = 20, B3 = 23
+
+End: 5/21/18 12:09 PM
+Duration: 5.04505558013916 min. 
+
+

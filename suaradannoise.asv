@@ -1,0 +1,15 @@
+clear all;
+
+%Membaca file suara yang telah direkam
+[Y, Fs] = audioread('080308-010.wav');
+Fs = 16000;
+t = 0:1/Fs:Fs;
+
+Plot()
+%sound(Y, Fs);
+%Menambahkan noise pada sinyal suara
+%derau = randn(length(Y),1);
+%Y_Noise = conv(derau, Y);
+
+%Play Suara
+%sound(Y_Noise, Fs);
